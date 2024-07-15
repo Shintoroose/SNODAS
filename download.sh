@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#Shinto Roose
-
 module load gdal
 module load cdo
 
